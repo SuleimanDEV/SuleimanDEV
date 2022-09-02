@@ -1,4 +1,5 @@
- 👋 Sources and Leaks
- 👀 https://suleimandev.com.br/
+ 👋 Equilibrado, porém desequilibrado.
 
- 🏆 Store: https://suleistore.com.br/
+ 👀 https://fademc.com.br/
+
+ 🏆 Store: https://weaven.com.br/webstore
