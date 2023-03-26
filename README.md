@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hola, soy SuleimanDEV. Diviértete con los códigos!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://SuleimanDEV.github.io"><img width="80%" alt="Hola, soy SuleimanDEV. Diviértete con los códigos!" src="./gh-readme-header.png" /></a></p>
 
 <br />
 
@@ -29,8 +29,8 @@ Soy SuleimanDEV, soy desarrollador y colaborador de servidores PVP brasileños, 
 <br />
 
 <a href="https://twitter.com/SuleimanDEV">
-  <img align="right" alt="SuleimanDEV | Twitter" width="21px" src="https://raw.githubusercontent.com/SuleimanDEV/informacion/master/assets/twitter.svg" />
+  <img align="right" alt="SuleimanDEV | Twitter" width="21px" src="https://raw.githubusercontent.com/SuleimanDEV/informacion/master/twitter.svg" />
 </a>
 <a href="https://codesandbox.io/u/SuleimanDEV">
-  <img align="right" alt="SuleimanDEV | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/SuleimanDEV/informacion/master/assets/codesandbox.svg" />
+  <img align="right" alt="SuleimanDEV | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/SuleimanDEV/informacion/master/codesandbox.svg" />
 </a>
