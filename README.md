@@ -1,3 +1,3 @@
- 👋 Equilibrado, porém desequilibrado.
+ 👋 Equilibrado, porém desequilibrado
 
  👀 https://fademc.com.br/
