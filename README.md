@@ -17,7 +17,9 @@ Soy SuleimanDEV, soy desarrollador y colaborador de servidores PVP brasileños, 
 
 #### Repositorios destacados
 
-
+<a href="https://github.com/SuleimanDEV/skypunish-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuleimanDEV&repo=skypunish-system&theme=buefy" />
+</a>
 <a href="https://github.com/SuleimanDEV/SloverMC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuleimanDEV&repo=SloverMC&theme=buefy" />
 </a>
